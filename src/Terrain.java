@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 /**
  * In the terrain class, the row, column, base, how many modifications have been made and the final version of our table are kept. In addition, operations such as applying modifications, printing the table, and creating the final state table are also done through methods.
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 09.05.2023
  */
 public class Terrain {
