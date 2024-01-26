@@ -4,7 +4,7 @@ import java.io.File;
 import java.util.ArrayList;
 /**
  * In the main class, reading the information from the text file, creating a table, then taking input from the console, making the necessary modifications, and then with the help of Terrain and Lake classes, calculating the points at which money is collected through the BFS searching algorithm logic and the volume of the total money collected.
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 09.05.2023
  */
 
