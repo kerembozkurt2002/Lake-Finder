@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 /**
  * In the lake class, there are variables for each lake object that hold the name of that lake, its coordinates, how much money is accumulated in those coordinates, and the volume of the total accumulated money.
- * @author Kerem Bozkurt, Student ID: 2020400177
+ * @author Kerem Bozkurt
  * @since Date: 09.05.2023
  */
 public class Lake {
